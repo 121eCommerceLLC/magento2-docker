@@ -25,10 +25,10 @@ This configuration has been tested on Linux Ubuntu 20.04 environments, with at l
 
 ## Installation
 
-To install zerocool78 toolset to your system, simply run command below.
+To install the toolset to your system, simply run command below.
 
 ```bash
-curl -sL raw.githubusercontent.com/cmarin121/magento2-docker/master/get | bash
+curl -sL raw.githubusercontent.com/121eCommerceLLC/magento2-docker/master/get | bash
 ```
 
 ## What is included
